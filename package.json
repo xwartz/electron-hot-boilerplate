@@ -1,0 +1,15 @@
+{
+  "name": "electron-hot-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a demo project for electron-hot-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "hmr"
+  ],
+  "author": "xwartz",
+  "license": "MIT"
+}
