@@ -11,7 +11,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js',
-    publicPath: '/static/'
+    publicPath: 'http://localhost:3000/static/'
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin()
